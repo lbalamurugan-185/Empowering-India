@@ -1,4 +1,4 @@
-# 🇮🇳 Empowering India Through Education & Employment
+#Empowering India Through Education & Employment
 
 ## 📊 Excel Data Analytics Dashboard
 
