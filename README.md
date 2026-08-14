@@ -24,44 +24,6 @@ The dashboard helps users identify **state-wise differences, trends, rankings, a
 
 ---
 
-## 📌 Key Questions
-
-This dashboard attempts to answer the following questions:
-
-1. Which states have the highest Higher Education GER?
-2. What is the literacy rate across Indian states?
-3. How has India's employment situation changed over time?
-4. Which states have the highest and lowest literacy rates?
-5. Is there a relationship between literacy and labour-force participation?
-6. How do education indicators vary across states?
-7. What patterns can be observed between education and employment?
-
----
-
-## 📂 Dataset
-
-### Source
-
-**Economic Survey 2022-23 – Statistical Appendix**
-
-The dataset contains information from multiple statistical tables related to education, employment and socio-economic indicators.
-
-### Major Indicators
-
-| Category | Indicators |
-|---|---|
-| Education | Higher Education GER |
-| Education | Elementary GER |
-| Education | Secondary GER |
-| Education | Senior Secondary GER |
-| Education | Literacy Rate |
-| Education Infrastructure | Universities |
-| Education Infrastructure | Colleges |
-| Employment | Labour Force Participation Rate |
-| Employment | Worker Population Ratio |
-| Employment | Unemployment Rate |
-
----
 
 ## 📊 Dashboard Components
 
